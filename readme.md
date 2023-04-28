@@ -6,7 +6,8 @@ Follow along as we design a sleek and responsive login page with additional sign
 
 Dive into form validation with JavaScript, ensuring a seamless user experience, and make your design accessible across devices with CSS media queries.
 
-[Watch the video here](https://youtu.be/-zS2UCalCqA?sub_confirmation=1)
+[Watch the video here:](https://youtu.be/-zS2UCalCqA?sub_confirmation=1)
+[![YouTube](./thumbnail.jpg)](https://youtu.be/-zS2UCalCqA?sub_confirmation=1)
 
 ## Resources
 

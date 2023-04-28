@@ -5,17 +5,17 @@ body {
 }
 
 html {
-  background: url("background.jpg") center / cover no-repeat;
+  background: url('background.jpg') center / cover no-repeat;
 }
 
 body {
   background-color: rgba(0, 0, 0, 0.3);
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: #242424;
 }
 
 button {
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-size: 16px;
   cursor: pointer;
 }
@@ -83,7 +83,7 @@ button {
   margin: 16px 0 0;
 }
 
-.auth-form button[type="button"] {
+.auth-form button[type='button'] {
   background-color: transparent;
   border: none;
   text-decoration: underline;
@@ -92,11 +92,11 @@ button {
   transition: opacity 300ms ease-in-out;
 }
 
-.auth-form button[type="button"]:hover {
+.auth-form button[type='button']:hover {
   opacity: 0.8;
 }
 
-.auth-form button[type="submit"] {
+.auth-form button[type='submit'] {
   background-color: #005eff;
   color: #fff;
   font-weight: 500;
@@ -107,7 +107,7 @@ button {
   transition: background-color 300ms ease-in-out;
 }
 
-.auth-form button[type="submit"]:hover {
+.auth-form button[type='submit']:hover {
   background-color: #004bce;
 }
 
